@@ -1,0 +1,9 @@
+{
+	"name": "John Doe",
+	"age":  17,
+	"address": ["62 Dingle Avenue", "GUX XX3"],
+	"qualifications": {
+		"C.S": 9,
+		"Maths": 9
+	}
+}
